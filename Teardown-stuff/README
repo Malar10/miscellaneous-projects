@@ -1,0 +1,7 @@
+Mods made for the voxel-based destruction game Teardown
+
+all code uses the teardown API, which can be found here:
+https://teardowngame.com/modding/api.html
+
+
+Released mods and bigger projects get their own folders, and more minor stuff will go into one big folder
